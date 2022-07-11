@@ -6,7 +6,7 @@ Getting more familiar with low-level EVM development and technicalities.
 
 Part 2 of understanding EVM bytecode through puzzles !
 
-See [README.md](evm-puzzles/blob/master/README.md) on master branch for the original purpose in doing theses challenges.
+See [README.md](../../blob/master/README.md) on master branch for the original purpose in doing theses challenges.
 
 ## What ?
 
