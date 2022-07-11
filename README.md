@@ -14,6 +14,10 @@ Starting with theses puzzle should enable me to get going on this path.
 
 Write-up of my solutions to the puzzles can be found in the [spoilers](/spoilers/) directory with corresponding markdown files for each puzzle.
 
+## Next ?
+
+See more EVM puzzle solving on the [more-evm-puzzles](https://github.com/Krow10/evm-puzzles/tree/more-evm-puzzles) branch !
+
 # Forked original README.md
 
 A collection of EVM puzzles. Each puzzle consists on sending a successful transaction to a contract. The bytecode of the contract is provided, and you need to fill the transaction data that won't revert the execution.
