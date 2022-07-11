@@ -4,7 +4,7 @@ Getting more familiar with low-level EVM development and technicalities.
 
 ## Why ?
 
-Part 2 of understanding EVM bytecode through puzzles !
+Part 2 of understanding EVM bytecode through puzzles ! 10 more puzzles constructed by [@daltyboy11](https://github.com/daltyboy11) (repo [here](https://github.com/daltyboy11/more-evm-puzzles)).
 
 See [README.md](../../blob/master/README.md) on master branch for the original purpose in doing theses challenges.
 
